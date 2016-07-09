@@ -95,7 +95,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Enter";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.startButt);
+            this.button1.Click += new System.EventHandler(this.StartButt);
             // 
             // button2
             // 
@@ -105,7 +105,7 @@
             this.button2.TabIndex = 7;
             this.button2.Text = "Enter";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.endButt);
+            this.button2.Click += new System.EventHandler(this.EndButt);
             // 
             // label3
             // 
